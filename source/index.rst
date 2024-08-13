@@ -37,11 +37,9 @@ The timeline that participants should consider is:
    tabs/registration   
    tabs/call_papers     
    tabs/travel_grant   
-
    tabs/venue   
    tabs/contact
    tabs/committee
-
    tabs/former_conference
    tabs/keynote_speakers
 
