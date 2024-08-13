@@ -8,7 +8,24 @@
 Welcome to LBS 2025
 ===================================
 
-...
+The ICA Commission on Location Based Services, the Commission on Digital Transformation of National Mapping Agencies, the Commission on Cognitive Issues in Geographic Information Visualization, and **Aalto University** are pleased 
+to invite you to the 19th International Conference on Location Based Services (LBS 2025), which will take place in Otaniemi, Espoo, Finland on 7-9 May 2025.
+
+
+Important Dates
+------------------
+
+The timeline that participants should consider is:
+
+- 1.11.2024 Deadline for full papers
+- 1.2.2025 Deadline for work in progress/abstracts
+- 15.2.2024 Deadline for showcases
+- Registration: Early bird -31.3.2025, Regular 1.4.2025-
+- 7.-9.5.2025 LBS 2025 Conference, Otaniemi, Espoo
+
+
+
+
 
 
 .. toctree::
@@ -16,19 +33,21 @@ Welcome to LBS 2025
    :caption: Content
    :hidden:
 
-   tabs/program
+
    tabs/registration   
    tabs/call_papers     
    tabs/travel_grant   
-   tabs/dates     
+
    tabs/venue   
    tabs/contact
    tabs/committee
-   tabs/proceedings 
+
    tabs/former_conference
    tabs/keynote_speakers
-   
 
+   .. tabs/program
+   .. tabs/proceedings 
+   .. tabs/dates     
 
 
 .. Indices and tables

@@ -55,7 +55,7 @@ html_theme_options = {
     'navbar_align': 'content', 
     'navbar_persistent': [], #'search-field'
     'search_bar_text': '',
-    "header_links_before_dropdown": 7,
+    "header_links_before_dropdown": 7     ,
     'navbar_end': ['navbar-icon-links', 'theme-switcher'], # , 
     'footer_start':['search-field' , "copyright", ], # 
     'footer_end':[ "sphinx-version", "theme-version"], # "version-switcher"
