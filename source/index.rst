@@ -17,11 +17,11 @@ Important Dates
 
 The timeline that participants should consider is:
 
-- 1.11.2024 Deadline for full papers
-- 1.2.2025 Deadline for work in progress/abstracts
-- 15.2.2024 Deadline for showcases
-- Registration: Early bird -31.3.2025, Regular 1.4.2025-
-- 7.-9.5.2025 LBS 2025 Conference, Otaniemi, Espoo
+- **1.11.2024** Deadline for full papers
+- **1.2.2025** Deadline for work in progress/abstracts
+- **15.2.2024** Deadline for showcases
+- **Registration:** Early bird -31.3.2025, Regular 1.4.2025-
+- **7.-9.5.2025** LBS 2025 Conference, Otaniemi, Espoo
 
 
 
@@ -34,6 +34,7 @@ The timeline that participants should consider is:
    :hidden:
 
 
+   tabs/program
    tabs/registration   
    tabs/call_papers     
    tabs/travel_grant   
@@ -43,7 +44,7 @@ The timeline that participants should consider is:
    tabs/former_conference
    tabs/keynote_speakers
 
-   .. tabs/program
+   .. 
    .. tabs/proceedings 
    .. tabs/dates     
 
