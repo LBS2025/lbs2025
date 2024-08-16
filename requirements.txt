@@ -3,8 +3,8 @@ sphinx
 requests==2.28.1
 matplotlib
 # sphinx-book-theme
-sphinx-book-theme
+sphinx-book-theme==0.3.3
 sphinx-togglebutton
 ipython
-sphinx_design
-sphinx-carousel
+#sphinx_design
+#sphinx-carousel
