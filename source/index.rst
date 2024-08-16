@@ -24,10 +24,6 @@ The timeline that participants should consider is:
 - **7.-9.5.2025** LBS 2025 Conference, Otaniemi, Espoo
 
 
-
-
-
-
 .. toctree::
    :maxdepth: 2
    :caption: Content

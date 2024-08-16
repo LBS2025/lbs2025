@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'LBS Conference 2025'
-copyright = '2024, Bryan R Vallejo, GIST-Lab, Aalto University'
+copyright = '2024, LBS Conference 2025 organizers'
 author = 'Bryan R Vallejo'
 release = 'v1.0'
 
@@ -38,7 +38,7 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = "pydata_sphinx_theme"
+html_theme = "sphinx_book_theme"
 html_logo = '_static/logo-tab.png' 
 html_title = "LBS Conference 2025"
 

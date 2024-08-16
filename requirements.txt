@@ -2,7 +2,7 @@
 sphinx==7.1.2
 requests==2.28.1
 matplotlib
-pydata-sphinx-theme
+sphinx-book-theme
 sphinx-togglebutton
 ipython
 sphinx_design
