@@ -21,7 +21,7 @@ extensions = [
     'sphinx_togglebutton',
     'IPython.sphinxext.ipython_console_highlighting',
     'IPython.sphinxext.ipython_directive',
-    # 'sphinx_design',
+    'sphinx_design',
     # "sphinx_carousel.carousel",
     # 'myst_nb',
     # 'jupyter_sphinx',
@@ -38,7 +38,7 @@ exclude_patterns = []
 
 html_theme = "sphinx_book_theme"
 html_logo = "_static/logo-tab.png"
-html_title = ""
+html_title = "LBS 2025"
 html_css_files = ["custom.css"]
 
 html_static_path = ['_static']
@@ -73,6 +73,8 @@ html_theme_options = {
     <p><b>Organized by:</b></p>
     <a href='http://lbs.icaci.org/'  target='_blank'> <img src='https://lbs2023.lbsconference.org/wp-content/uploads/2023/01/ica-logo_lbs-commission-300x78.png'> </a>
     <p><br></p>
+    <a href='https://cogvis.icaci.org'  target='_blank'> <img src='https://raw.githubusercontent.com/AaltoGIS/lbs2025/master/source/_static/cogvis-logo.png'> </a>
+    <p><br></p>
     <a href='https://www.aalto.fi/en'  target='_blank'> <img src='https://raw.githubusercontent.com/AaltoGIS/lbs2025/master/source/_static/aalto_logo.png'> </a>
     <p><br></p>
     <a href='https://www.maanmittauslaitos.fi/en/research'  target='_blank'> <img src='https://navisp.esa.int/uploads/images/contractor/65129ee279504037723029.png'> </a>
@@ -86,7 +88,7 @@ html_theme_options = {
 
 html_sidebars = {
     "**": [
-        # "sidebar-logo.html",
+        "sidebar-logo.html",
         #"search-field.html",
         #"postcard.html",
         #"recentposts.html",
