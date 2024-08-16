@@ -54,6 +54,7 @@ html_theme_options = {
     # "external_links": [],
     # "single_page": False,
     "toc_title": "Contents",
+    "logo_only": True,
     "use_download_button": True,
     "show_toc_level": 0,
     "repository_url": "https://github.com/AaltoGIS/LBS2025",
@@ -81,15 +82,15 @@ html_theme_options = {
     #"announcement": ("📢 All presentations of the accepted papers can now be found under the 'Accepted papers - Short talks' -page. 📢"),
 }
 
-#html_sidebars = {
-#    "**": [
-#        "sidebar-logo.html",
+html_sidebars = {
+    "**": [
+        "sidebar-logo.html",
         #"search-field.html",
         #"postcard.html",
         #"recentposts.html",
         #"tagcloud.html",
         #"categories.html",
         #"archives.html",
-#        "sbt-sidebar-nav.html",
-#    ]
-#}
+        "sbt-sidebar-nav.html",
+    ]
+}
