@@ -86,7 +86,7 @@ html_theme_options = {
 
 html_sidebars = {
     "**": [
-        # "sidebar-logo.html",
+        "sidebar-logo.html",
         #"search-field.html",
         #"postcard.html",
         #"recentposts.html",
