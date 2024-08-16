@@ -68,11 +68,13 @@ html_theme_options = {
 
     #"navbar_end": ["mybutton.html"],
 
-    # Add GIScience logo
+    # Add logos to the bottom left under the TOC
     "extra_navbar": """
     <p><b>Organized by:</b></p>
     <a href='http://lbs.icaci.org/'  target='_blank'> <img src='https://lbs2023.lbsconference.org/wp-content/uploads/2023/01/ica-logo_lbs-commission-300x78.png'> </a>
+    <p><br></p>
     <a href='https://www.aalto.fi/en'  target='_blank'> <img src='https://raw.githubusercontent.com/AaltoGIS/lbs2025/master/source/_static/aalto_logo.png'> </a>
+    <p><br></p>
     <a href='https://www.maanmittauslaitos.fi/en/research'  target='_blank'> <img src='https://navisp.esa.int/uploads/images/contractor/65129ee279504037723029.png'> </a>
     <p><br><b>Co-sponsored by:</b></p>
     <a href='https://www.maanmittauslaitos.fi/en'  target='_blank'> <img src='https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/National_Land_Survey_of_Finland_logo.svg/1200px-National_Land_Survey_of_Finland_logo.svg.png'> </a>
