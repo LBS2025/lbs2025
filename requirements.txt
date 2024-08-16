@@ -6,3 +6,5 @@ matplotlib
 sphinx-book-theme
 sphinx-togglebutton
 ipython
+sphinx_design
+sphinx-carousel
