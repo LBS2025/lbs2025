@@ -3,6 +3,6 @@ sphinx
 requests==2.28.1
 matplotlib
 # sphinx-book-theme
-sphinx-book-theme==0.3.3
+sphinx-book-theme
 sphinx-togglebutton
 ipython
