@@ -25,12 +25,9 @@ The timeline that participants should consider is:
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Content
+   :maxdepth: 1
    :hidden:
 
-
-   tabs/program
    tabs/registration   
    tabs/call_papers     
    tabs/travel_grant   
@@ -40,14 +37,6 @@ The timeline that participants should consider is:
    tabs/former_conference
    tabs/keynote_speakers
 
-   .. 
-   .. tabs/proceedings 
+   .. tabs/program
+   .. tabs/proceedings
    .. tabs/dates     
-
-
-.. Indices and tables
-.. ==================
-
-.. * :ref:`genindex`
-.. * :ref:`modindex`
-.. * :ref:`search`
