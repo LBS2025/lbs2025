@@ -28,8 +28,8 @@ The timeline that participants should consider is:
    :maxdepth: 1
    :hidden:
 
-   pages/registration
    pages/call_papers
+   pages/registration
    pages/travel_grant
    pages/venue
    pages/contact
@@ -37,6 +37,6 @@ The timeline that participants should consider is:
    pages/former_conference
    pages/keynote_speakers
 
-   .. tabs/program
-   .. tabs/proceedings
-   .. tabs/dates     
+   .. pages/program
+   .. pages/proceedings
+   .. pages/dates
