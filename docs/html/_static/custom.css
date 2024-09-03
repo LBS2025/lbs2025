@@ -1,0 +1,32 @@
+/* Use font color derived from the event banner */
+h1, h2, h3 {
+    color: #457f94 !important;
+}
+
+.bd-sidebar .nav {
+    font-size: 1.2em;
+    color: #457f94;
+}
+
+/* Smooth scrolling from section to another */
+html {
+  scroll-behavior: smooth;
+}
+
+#welcome-to-lbs-2025, #important-dates {
+    // background-color: #f0f1ea;
+    padding-bottom: 2%;
+    padding-top: 2%;
+
+}
+
+/* GIScience logo size on the left panel */
+#site-navigation div.navbar_extra_footer {
+    max-width: 70%;
+
+}
+#site-navigation div.navbar_extra_footer p {
+    margin-bottom: 0.15rem;
+    font-size: 1em;
+    color: #457f94;
+}
