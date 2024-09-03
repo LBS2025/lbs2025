@@ -13,6 +13,8 @@ The main conference will be organized in Lumituuli auditorium which is one of th
 Location
 --------
 
+**Address**: Otakaari 24, Otaniemi, Espoo.
+
 .. raw:: html
 
     <div>
