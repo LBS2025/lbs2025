@@ -28,7 +28,7 @@ jobs:
         shell: bash -l {0}
         continue-on-error: false
         run: |
-          make html
+          make pages
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"

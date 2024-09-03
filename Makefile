@@ -18,3 +18,21 @@ help:
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+
+.PHONY: pages
+pages:
+	@echo
+	@echo "Building pages with Sphinx."
+	@echo "-----------------------------------"
+	make clean
+	make html
+	make html
+	# Remove unnecessary directories
+	rm -rf docs/doctrees docs/jupyter_execute
+	# Move files level up from html directory
+	mv docs/html/* docs/
+	rm -r docs/html
+	# Create NoJekyll
+	touch docs/.nojekyll
+    # Create CNAME for pythongis.org (points Github Pages to that domain)
+	echo 'lbs2025.lbsconference.org' > docs/CNAME
