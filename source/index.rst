@@ -1,10 +1,5 @@
 .. figure:: _static/logo-banner.png
 
-.. LBS2025 documentation master file, created by
-   sphinx-quickstart on Tue Jun 25 12:21:20 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to LBS 2025
 ===================================
 
