@@ -1,6 +1,7 @@
 Former Conferences 
 ======================
 
+- `2023 – Ghent, Belgium <http://lbs2023.lbsconference.org>`_
 - `2022 – Munich, Germany <https://conferences.lfk.lrg.tum.de/lbs2022/>`_
 - `2021 – Glasgow, United Kingdom <https://lbs2021.lbsconference.org/>`_
 - `2019 – Vienna, Austria <https://lbs2019.lbsconference.org/>`_
