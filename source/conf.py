@@ -25,7 +25,7 @@ extensions = [
     # "sphinx_carousel.carousel",
     # 'myst_nb',
     # 'jupyter_sphinx',
-    # 'sphinx_tabs.tabs',
+    # 'sphinx_tabs.pages',
     # "sphinx_inline_tabs",
    # 'sphinx_last_updated_by_git'
 ]
@@ -57,7 +57,7 @@ html_theme_options = {
     "logo_only": True,
     "use_download_button": True,
     "show_toc_level": 0,
-    "repository_url": "https://github.com/AaltoGIS/LBS2025",
+    "repository_url": "https://github.com/LBS2025/LBS2025",
     "repository_branch": "master",
     "path_to_docs": "source/",
     "use_edit_page_button": False,
