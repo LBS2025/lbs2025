@@ -34,5 +34,5 @@ pages:
 	rm -r docs/html
 	# Create NoJekyll
 	touch docs/.nojekyll
-    # Create CNAME for pythongis.org (points Github Pages to that domain)
-	# echo 'lbs2025.lbsconference.org' > docs/CNAME
+    # Create CNAME for conference (points Github Pages to that domain)
+	echo 'lbs2025.lbsconference.org' > docs/CNAME
