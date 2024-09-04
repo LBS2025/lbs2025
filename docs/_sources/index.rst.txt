@@ -27,14 +27,14 @@ The timeline that participants should consider is:
    :hidden:
 
    pages/call_papers
-   pages/registration
-   pages/travel_grant
    pages/venue
    pages/contact
    pages/committee
    pages/former_conference
    pages/keynote_speakers
 
+   .. pages/registration
+   .. pages/travel_grant
    .. pages/program
    .. pages/proceedings
    .. pages/dates
