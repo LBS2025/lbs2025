@@ -30,3 +30,7 @@ html {
     font-size: 1em;
     color: #457f94;
 }
+
+.strikethrough {
+    text-decoration: line-through;
+}
