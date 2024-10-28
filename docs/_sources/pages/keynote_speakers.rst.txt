@@ -1,6 +1,28 @@
 Keynote Speakers
 ================
 
+We are happy to announce that Prof. Ana Basiri from University of Glasgow (UK), Prof. Grant McKenzie from McGill University (Canada),
+and Prof. Heidi Kuusniemi from University of Vaasa (Finland) are our confirmed keynote speakers at LBS 2025.
+
+.. grid:: 1 3 3 3
+    :gutter: 2
+
+    .. grid-item-card:: Ana Basiri, University of Glasgow
+         :link: pages/keynote_speakers.html
+
+         .. figure:: ../img/Ana_Basiri.jpg
+
+    .. grid-item-card:: Grant McKenzie, McGill University
+        :link: pages/keynote_speakers.html
+
+        .. figure:: ../img/Grant_McKenzie.jpg
+
+    .. grid-item-card:: Heidi Kuusniemi, University of Vaasa
+         :link: pages/keynote_speakers.html
+
+         .. figure:: ../img/Heidi_Kuusniemi.jpg
+
+
 Ana Basiri
 ----------
 
