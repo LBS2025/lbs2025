@@ -10,12 +10,36 @@ Call for papers
 
 :doc:`Call for Papers <pages/call_papers>` open now!
 
+Keynote speakers
+----------------
+
+We are happy to announce that Prof. Ana Basiri from University of Glasgow (UK), Prof. Grant McKenzie from McGill University (Canada),
+and Prof. Heidi Kuusniemi from University of Vaasa (Finland) are our confirmed keynote speakers at LBS 2025.
+
+.. grid:: 1 3 3 3
+    :gutter: 2
+
+    .. grid-item-card:: Ana Basiri, University of Glasgow (UK)
+         :link: pages/keynote_speakers.html#ana-basiri
+
+         .. figure:: img/Ana_Basiri.jpg
+
+    .. grid-item-card:: Grant McKenzie, McGill University (CAN)
+        :link: pages/keynote_speakers.html#grant-mckenzie
+
+        .. figure:: img/Grant_McKenzie.jpg
+
+    .. grid-item-card:: Heidi Kuusniemi, University of Vaasa (FIN)
+         :link: pages/keynote_speakers.html#heidi-kuusniemi
+
+         .. figure:: img/Heidi_Kuusniemi.jpeg
+
 Important Dates
 ------------------
 
 The timeline that participants should consider is:
 
-- **1.11.2024** Deadline for full papers
+- **17.11.2024** ~~1.11.2024~~ Deadline for full papers
 - **1.2.2025** Deadline for work in progress/abstracts
 - **15.2.2024** Deadline for showcases
 - **Registration:** Early bird -31.3.2025, Regular 1.4.2025-
@@ -27,11 +51,11 @@ The timeline that participants should consider is:
    :hidden:
 
    pages/call_papers
+   pages/keynote_speakers
    pages/venue
    pages/contact
    pages/committee
    pages/former_conference
-   .. pages/keynote_speakers
 
    .. pages/registration
    .. pages/travel_grant
