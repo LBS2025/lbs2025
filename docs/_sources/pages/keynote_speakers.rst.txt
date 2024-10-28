@@ -7,20 +7,20 @@ and Prof. Heidi Kuusniemi from University of Vaasa (Finland) are our confirmed k
 .. grid:: 1 3 3 3
     :gutter: 2
 
-    .. grid-item-card:: Ana Basiri, University of Glasgow
+    .. grid-item-card:: Ana Basiri, University of Glasgow (UK)
          :link: pages/keynote_speakers.html
 
          .. figure:: ../img/Ana_Basiri.jpg
 
-    .. grid-item-card:: Grant McKenzie, McGill University
+    .. grid-item-card:: Grant McKenzie, McGill University (CAN)
         :link: pages/keynote_speakers.html
 
         .. figure:: ../img/Grant_McKenzie.jpg
 
-    .. grid-item-card:: Heidi Kuusniemi, University of Vaasa
+    .. grid-item-card:: Heidi Kuusniemi, University of Vaasa (FIN)
          :link: pages/keynote_speakers.html
 
-         .. figure:: ../img/Heidi_Kuusniemi.jpg
+         .. figure:: ../img/Heidi_Kuusniemi.jpeg
 
 
 Ana Basiri
@@ -59,7 +59,7 @@ and software developer for a range of NGOs and leading technology companies.
 Heidi Kuusniemi
 ---------------
 
-.. figure:: ../img/Heidi_Kuusniemi.jpg
+.. figure:: ../img/Heidi_Kuusniemi.jpeg
    :figwidth: 30%
    :align: right
 
