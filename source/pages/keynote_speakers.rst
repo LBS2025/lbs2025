@@ -4,23 +4,20 @@ Keynote Speakers
 .. grid:: 1 3 3 3
     :gutter: 2
 
-    .. grid-item-card:: :fas:`star` Ana Basiri, University of Glasgow
-         :link: pages/keynote_speakers.html
+    .. grid-item-card:: Ana Basiri, University of Glasgow
+         :link: keynote_speakers.html
 
-         .. figure:: ../img/Ana_Basiri.jpg
-            :figwidth: 30%
+         Test.
 
-    .. grid-item-card:: :fas:`star` Grant McKenzie, McGill University
-        :link: pages/keynote_speakers.html
+    .. grid-item-card:: Grant McKenzie, McGill University
+        :link: keynote_speakers.html
 
-        .. figure:: ../img/Grant_McKenzie.jpg
-            :figwidth: 30%
+        Test.
 
-    .. grid-item-card:: :fas:`star` Heidi Kuusniemi, University of Vaasa
-         :link: pages/keynote_speakers.html
+    .. grid-item-card:: Heidi Kuusniemi, University of Vaasa
+         :link: keynote_speakers.html
 
-         .. figure:: ../img/Heidi_Kuusniemi.jpg
-            :figwidth: 30%
+         Test.
 
 
 Ana Basiri
