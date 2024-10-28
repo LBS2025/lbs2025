@@ -8,19 +8,16 @@ Keynote Speakers
          :link: pages/keynote_speakers.html
 
          .. figure:: ../img/Ana_Basiri.jpg
-            :figwidth: 30%
 
     .. grid-item-card:: :fas:`star` Grant McKenzie, McGill University
         :link: pages/keynote_speakers.html
 
         .. figure:: ../img/Grant_McKenzie.jpg
-            :figwidth: 30%
 
     .. grid-item-card:: :fas:`star` Heidi Kuusniemi, University of Vaasa
          :link: pages/keynote_speakers.html
 
          .. figure:: ../img/Heidi_Kuusniemi.jpg
-            :figwidth: 30%
 
 
 Ana Basiri
