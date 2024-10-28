@@ -4,24 +4,18 @@ Keynote Speakers
 We are happy to announce that Prof. Anahid Basiri from University of Glasgow (UK), Prof. Grant McKenzie from McGill University (Canada),
 and Prof. Heidi Kuusniemi from University of Vaasa (Finland) are our confirmed keynote speakers at LBS 2025.
 
-Anahid Basiri
--------------
+Ana Basiri
+----------
 
 .. figure:: ../img/Ana_Basiri.jpg
    :figwidth: 30%
    :align: right
 
 
-**Dr. Anahid (Ana) Basiri** is a Professor of Geospatial Data Science at the School of Geographical & Earth Sciences, University of Glasgow. Ana is a UKRI Future Leaders Fellow,
-the Editor in Chief of Journal of Navigation and Associate/Guest Editor of several high impact journals including IET Smart city and International Journal Geographical Information Science.
-She leads an interdisciplinary team of researchers and collaborates with world-leading academic and industrial partners, including Ordnance Survey GB, Uber, Alan Turing Institute,
-and engage with the public, policymakers, and government. Dr. Basiri has received several awards and prizes, including Women Role Model in Science by Alexander Humboldt and European
-Commission Marie Curie Alumni. Ana works on developing (theoretical and applied) solutions to the challenges of 'new forms of data' such as missingness and biases.
-These solutions are based on the mindset that considers the bias, missingness, or low quality as a useful source of data to make inference about the
-underlying reasons for the missingness and bias. One application of this is extracting the 3D map of cities using the patterns of blockage, reflection,
-and attenuation of the GPS signals (or other similar signals), that are contributed by the volunteers/crowd. In the era of big data, open data, social media, and
-crowdsourced data when “we are drowning in data”, gaps and unavailability, representativeness, and bias issues associated with them may indicate some hidden problems
-or reasons of biases and missingness.
+**Dr. Anahid (Ana) Basiri** is a Professor in Geospatial Data Science, a UK Research and Innovation Future Leaders Fellow, the Director of the Centre for Data Science and AI,
+and the Royal Academy of Engineering's EngineeringX Champion at the University of Glasgow. Ana leads a team working on developing (theoretical and applied) solutions that
+consider unavailability and biases in data as useful sources of data to make inferences about the underlying reasons that caused missingness or biases.
+For this, she collaborates with world-leading academic, government, and industrial partners.
 
 Grant McKenzie
 --------------
