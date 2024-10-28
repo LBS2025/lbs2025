@@ -10,6 +10,8 @@ Call for papers
 
 :doc:`Call for Papers <pages/call_papers>` open now!
 
+Notice! DL for full papers extended until 17th Nov, 2024.
+
 Keynote speakers
 ----------------
 
