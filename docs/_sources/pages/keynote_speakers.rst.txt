@@ -4,21 +4,21 @@ Keynote Speakers
 Ana Basiri
 ----------
 
+.. figure:: ../img/Ana_Basiri.jpg
+   :figwidth: 30%
+   :align: right
 
 
 **Dr. Ana Basiri** is a Professor of Geospatial Data Science at the School of Geographical & Earth Sciences, University of Glasgow. Ana is a UKRI Future Leaders Fellow,
-Chair of Geospatial Data Science at the University of Glasgow, the Editor in Chief of Journal of Navigation and Associate/Guest Editor
-of several high impact journals including IET Smart city and International Journal Geographical Information Science. She has received several awards and prizes, including
-Women Role Model in Science by Alexander Humboldt and European Commission Marie Curie Alumni.
-
-Prof. Basiri works on developing (theoretical and applied) solutions to the challenges of 'new forms of data' such as missingness and biases.
+the Editor in Chief of Journal of Navigation and Associate/Guest Editor of several high impact journals including IET Smart city and International Journal Geographical Information Science.
+She leads an interdisciplinary team of researchers and collaborates with world-leading academic and industrial partners, including Ordnance Survey GB, Uber, Alan Turing Institute,
+and engage with the public, policymakers, and government. Dr. Basiri has received several awards and prizes, including Women Role Model in Science by Alexander Humboldt and European
+Commission Marie Curie Alumni. Ana works on developing (theoretical and applied) solutions to the challenges of 'new forms of data' such as missingness and biases.
 These solutions are based on the mindset that considers the bias, missingness, or low quality as a useful source of data to make inference about the
 underlying reasons for the missingness and bias. One application of this is extracting the 3D map of cities using the patterns of blockage, reflection,
 and attenuation of the GPS signals (or other similar signals), that are contributed by the volunteers/crowd. In the era of big data, open data, social media, and
 crowdsourced data when “we are drowning in data”, gaps and unavailability, representativeness, and bias issues associated with them may indicate some hidden problems
-or reasons of biases and missingness. These novel solutions allow us to understand the data, society, and cities better. For this, she leads an interdisciplinary team of
-researchers and collaborates with world-leading academic and industrial partners, including Ordnance Survey GB, Uber, Alan Turing Institute, and engage with the public,
-policymakers, and government.
+or reasons of biases and missingness.
 
 Grant McKenzie
 --------------
@@ -36,6 +36,11 @@ and software developer for a range of NGOs and leading technology companies.
 
 Heidi Kuusniemi
 ---------------
+
+.. figure:: ../img/Heidi_Kuusniemi.jpg
+   :figwidth: 30%
+   :align: right
+
 
 Dr. Heidi Kuusniemi is a professor in computer science and director of the Digital Economy research platform and the Kvarken Space Center at the University of Vaasa in Finland.
 She is also a part-time research professor in satellite navigation at the Finnish Geospatial Research Institute of the National Land Survey. She is the President of the Nordic
