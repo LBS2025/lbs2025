@@ -1,18 +1,18 @@
 Keynote Speakers
 ================
 
-We are happy to announce that Prof. Ana Basiri from University of Glasgow (UK), Prof. Grant McKenzie from McGill University (Canada),
+We are happy to announce that Prof. Anahid Basiri from University of Glasgow (UK), Prof. Grant McKenzie from McGill University (Canada),
 and Prof. Heidi Kuusniemi from University of Vaasa (Finland) are our confirmed keynote speakers at LBS 2025.
 
-Ana Basiri
-----------
+Anahid Basiri
+-------------
 
 .. figure:: ../img/Ana_Basiri.jpg
    :figwidth: 30%
    :align: right
 
 
-**Dr. Ana Basiri** is a Professor of Geospatial Data Science at the School of Geographical & Earth Sciences, University of Glasgow. Ana is a UKRI Future Leaders Fellow,
+**Dr. Anahid (Ana) Basiri** is a Professor of Geospatial Data Science at the School of Geographical & Earth Sciences, University of Glasgow. Ana is a UKRI Future Leaders Fellow,
 the Editor in Chief of Journal of Navigation and Associate/Guest Editor of several high impact journals including IET Smart city and International Journal Geographical Information Science.
 She leads an interdisciplinary team of researchers and collaborates with world-leading academic and industrial partners, including Ordnance Survey GB, Uber, Alan Turing Institute,
 and engage with the public, policymakers, and government. Dr. Basiri has received several awards and prizes, including Women Role Model in Science by Alexander Humboldt and European

@@ -21,7 +21,7 @@ and Prof. Heidi Kuusniemi from University of Vaasa (Finland) are our confirmed k
 .. grid:: 1 3 3 3
     :gutter: 2
 
-    .. grid-item-card:: Ana Basiri, University of Glasgow (UK)
+    .. grid-item-card:: Anahid Basiri, University of Glasgow (UK)
          :link: pages/keynote_speakers.html#ana-basiri
 
          .. figure:: img/Ana_Basiri_avatar_BW.jpeg
