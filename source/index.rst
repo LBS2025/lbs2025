@@ -31,7 +31,7 @@ The timeline that participants should consider is:
    pages/contact
    pages/committee
    pages/former_conference
-   pages/keynote_speakers
+   .. pages/keynote_speakers
 
    .. pages/registration
    .. pages/travel_grant
