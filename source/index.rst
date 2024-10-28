@@ -10,7 +10,7 @@ Call for papers
 
 :doc:`Call for Papers <pages/call_papers>` open now!
 
-Notice! DL for full papers extended until 17th Nov, 2024.
+Notice! DL for full papers extended until 18th Nov, 2024.
 
 Keynote speakers
 ----------------
@@ -41,7 +41,7 @@ Important Dates
 
 The timeline that participants should consider is:
 
-- **17.11.2024** :strike:`1.11.2024` Deadline for full papers
+- **18.11.2024** :strike:`1.11.2024` Deadline for full papers
 - **1.2.2025** Deadline for work in progress/abstracts
 - **15.2.2024** Deadline for showcases
 - **Registration:** Early bird -31.3.2025, Regular 1.4.2025-
