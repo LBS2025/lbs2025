@@ -64,7 +64,7 @@ Heidi Kuusniemi
    :align: right
 
 
-Dr. Heidi Kuusniemi is a professor in computer science and director of the Digital Economy research platform and the Kvarken Space Center at the University of Vaasa in Finland.
+**Dr. Heidi Kuusniemi** is a Professor in computer science and director of the Digital Economy research platform and the Kvarken Space Center at the University of Vaasa in Finland.
 She is also a part-time research professor in satellite navigation at the Finnish Geospatial Research Institute of the National Land Survey. She is the President of the Nordic
 Institute of Navigation. She has a M.Sc. (Tech.) degree (with distinction) from 2002 and a D.Sc. (Tech.) degree from 2005 in information technology, respectively,
 from Tampere University of Technology, Finland. Part of her doctoral research in 2003-2004 on navigation reliability was conducted at the University of Calgary,
