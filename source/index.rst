@@ -24,13 +24,13 @@ and Prof. Heidi Kuusniemi from University of Vaasa (Finland) are our confirmed k
     .. grid-item-card:: Ana Basiri, University of Glasgow (UK)
          :link: pages/keynote_speakers.html#ana-basiri
 
-         .. figure:: img/Ana_Basiri_avatar_BW.jpg
+         .. figure:: img/Ana_Basiri_avatar_BW.jpeg
             :class: sd-avatar-xl
 
     .. grid-item-card:: Grant McKenzie, McGill University (CAN)
         :link: pages/keynote_speakers.html#grant-mckenzie
 
-        .. figure:: img/Grant_McKenzie_avatar_BW.jpg
+        .. figure:: img/Grant_McKenzie_avatar_BW.jpeg
            :class: sd-avatar-xl
 
     .. grid-item-card:: Heidi Kuusniemi, University of Vaasa (FIN)
