@@ -6,6 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+from docutils.parsers.rst import roles
+from docutils import nodes
+
 project = 'LBS Conference 2025'
 copyright = 'LBS Conference 2025.'
 release = 'v1.0'
@@ -98,3 +101,9 @@ html_sidebars = {
         "sbt-sidebar-nav.html",
     ]
 }
+
+def strikethrough_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
+    node = nodes.inline(text=text, classes=["strikethrough"])
+    return [node], []
+
+roles.register_local_role('strike', strikethrough_role)

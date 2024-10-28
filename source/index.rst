@@ -39,7 +39,7 @@ Important Dates
 
 The timeline that participants should consider is:
 
-- **17.11.2024** ~~1.11.2024~~ Deadline for full papers
+- **17.11.2024** :strike:`1.11.2024` Deadline for full papers
 - **1.2.2025** Deadline for work in progress/abstracts
 - **15.2.2024** Deadline for showcases
 - **Registration:** Early bird -31.3.2025, Regular 1.4.2025-
