@@ -1,14 +1,14 @@
-sphinx==4.5.0
-requests==2.32.3
+sphinx
+requests
 matplotlib
-sphinx-book-theme==0.3.3
-sphinx-togglebutton==0.3.2
+sphinx-book-theme
+sphinx-togglebutton
 sphinx_design==0.6.1
-sphinxcontrib-applehelp==1.0.4
-sphinxcontrib-devhelp==1.0.2
-sphinxcontrib-htmlhelp==2.0.1
-sphinxcontrib-jsmath==1.0.1
-sphinxcontrib-serializinghtml==1.1.5
-sphinxcontrib-qthelp==1.0.3
-ipython==8.26.0
+sphinxcontrib-applehelp
+sphinxcontrib-devhelp
+sphinxcontrib-htmlhelp
+sphinxcontrib-jsmath
+sphinxcontrib-serializinghtml
+sphinxcontrib-qthelp
+ipython
 
