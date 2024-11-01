@@ -22,33 +22,37 @@ are our confirmed keynote speakers at LBS 2025.
 .. grid:: 2
     :gutter: 2
 
-    .. grid-item-card:: Prof. Anahid Basiri, University of Glasgow
+    .. grid-item-card:: Prof. Anahid Basiri, |br| University of Glasgow
          :link: pages/keynote_speakers.html#ana-basiri
          :columns: 12 12 5 5
 
          .. figure:: img/Ana_Basiri_avatar_BW.jpeg
             :class: sd-avatar-xl
 
-    .. grid-item-card:: Prof. Grant McKenzie, McGill University
+    .. grid-item-card:: Prof. Grant McKenzie, |br| McGill University
         :link: pages/keynote_speakers.html#grant-mckenzie
         :columns: 12 12 5 5
 
         .. figure:: img/Grant_McKenzie_avatar_BW.jpeg
            :class: sd-avatar-xl
 
-    .. grid-item-card:: Prof. Heidi Kuusniemi, University of Vaasa
+    .. grid-item-card:: Prof. Heidi Kuusniemi, |br| University of Vaasa
          :link: pages/keynote_speakers.html#heidi-kuusniemi
          :columns: 12 12 5 5
 
          .. figure:: img/Heidi_Kuusniemi_avatar_BW.jpeg
             :class: sd-avatar-xl
 
-    .. grid-item-card:: Antti Vuorela, Helsinki Region Transport (HSL)
+    .. grid-item-card:: Antti Vuorela, |br| Helsinki Region Transport (HSL)
          :link: pages/keynote_speakers.html#antti-vuorela
          :columns: 12 12 5 5
 
          .. figure:: img/Antti_Vuorela_avatar_BW.jpeg
             :class: sd-avatar-xl
+
+.. |br| raw:: html
+
+     <br>
 
 Important Dates
 ------------------
@@ -78,3 +82,5 @@ The timeline that participants should consider is:
    .. pages/program
    .. pages/proceedings
    .. pages/dates
+
+
