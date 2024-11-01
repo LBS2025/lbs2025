@@ -33,6 +33,7 @@ are our confirmed keynote speakers at LBS 2025.
     .. grid-item-card:: Prof. Grant McKenzie, |br| McGill University
         :link: pages/keynote_speakers.html#grant-mckenzie
         :columns: 12 12 5 5
+        :text-align: center
 
         .. figure:: img/Grant_McKenzie_avatar_BW.jpeg
            :class: sd-avatar-xl
@@ -40,6 +41,7 @@ are our confirmed keynote speakers at LBS 2025.
     .. grid-item-card:: Prof. Heidi Kuusniemi, |br| University of Vaasa
          :link: pages/keynote_speakers.html#heidi-kuusniemi
          :columns: 12 12 5 5
+         :text-align: center
 
          .. figure:: img/Heidi_Kuusniemi_avatar_BW.jpeg
             :class: sd-avatar-xl
@@ -47,6 +49,7 @@ are our confirmed keynote speakers at LBS 2025.
     .. grid-item-card:: Antti Vuorela, |br| Helsinki Region Transport (HSL)
          :link: pages/keynote_speakers.html#antti-vuorela
          :columns: 12 12 5 5
+         :text-align: center
 
          .. figure:: img/Antti_Vuorela_avatar_BW.jpeg
             :class: sd-avatar-xl
