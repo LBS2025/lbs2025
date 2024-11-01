@@ -55,7 +55,7 @@ Antti Vuorela
    :figwidth: 30%
    :align: right
 
-**M.Sc. Antti (Ana) Vuorela** works as a Development Manager at HSL. Ana specializes in development, digitalization, customer experience and research. He believes that one
+**M.Sc. Antti (Ana) Vuorela** works as a Development Manager at Helsinki Region Transport (HSL). Ana specializes in development, digitalization, customer experience and research. He believes that one
 should listen to customers’ needs and work together with customers. Ana has over thirty years of varied experience in transportation. He oversaw the development of the
 Quality Monitoring System of Public Transport (Jola) which was the first modern real-time fleet quality operations management system in the world. “Expect the unexpected”
 is his motto. He has spoken at various world conferences.
