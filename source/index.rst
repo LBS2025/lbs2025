@@ -25,6 +25,7 @@ are our confirmed keynote speakers at LBS 2025.
     .. grid-item-card:: Prof. Anahid Basiri, |br| University of Glasgow
          :link: pages/keynote_speakers.html#ana-basiri
          :columns: 12 12 5 5
+         :text-align: center
 
          .. figure:: img/Ana_Basiri_avatar_BW.jpeg
             :class: sd-avatar-xl
