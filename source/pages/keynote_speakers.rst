@@ -47,3 +47,15 @@ Department of Geomatics Engineering, Canada. In 2017, she was a visiting scholar
 sciences and engineering at the Academy of Finland in 2019-2021 and is a member of the Finnish Academy of Technical Sciences since 2023. She was a member of the scientific
 advisory committee for GNSS (GSAC) at the European Space Agency (ESA) in 2013-2020. Her technical expertise and interests include localization methods, GNSS reliability and
 resilience, estimation and data fusion, mobile precision positioning and PNT in the new space economy.
+
+Antti Vuorela
+-------------
+
+.. figure:: ../img/Antti_Vuorela.jpeg
+   :figwidth: 30%
+   :align: right
+
+**M.Sc. Antti (Ana) Vuorela** works as a Development Manager at HSL. Ana specializes in development, digitalization, customer experience and research. He believes that one
+should listen to customers’ needs and work together with customers. Ana has over thirty years of varied experience in transportation. He oversaw the development of the
+Quality Monitoring System of Public Transport (Jola) which was the first modern real-time fleet quality operations management system in the world. “Expect the unexpected”
+is his motto. He has spoken at various world conferences.
