@@ -59,16 +59,15 @@ are our confirmed keynote speakers at LBS 2025.
      <br>
 
 Important Dates
-------------------
+---------------
 
 The timeline that participants should consider is:
 
 - **18.11.2024** :strike:`1.11.2024` Deadline for full papers
-- **1.2.2025** Deadline for work in progress/abstracts
-- **15.2.2024** Deadline for showcases
+- **23.2.2025** :strike:`1.2.2025` Deadline for work in progress/abstracts
+- **23.2.2025** :strike:`15.2.2024` Deadline for showcases
 - **Registration:** Early bird -31.3.2025, Regular 1.4.2025-
 - **7.-9.5.2025** LBS 2025 Conference, Otaniemi, Espoo
-
 
 .. toctree::
    :maxdepth: 1
