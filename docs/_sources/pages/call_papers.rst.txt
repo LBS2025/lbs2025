@@ -92,6 +92,8 @@ Work in progress
 
 To present ongoing work. Work-in-progress papers should include succinct and sufficient information about research objectives, significance, method, and preliminary or expected findings. If accepted (after review), you are either invited to give an oral or a poster presentation at the conference (decision by the program committee). Your work-in-progress paper will be published in the online proceedings of the conference (with a DOI). Work-in-progress papers (up to 1200 words, including title, figures, and references) must be written in English using the LBS 2025 `Word <https://github.com/LBS2025/lbs2025/raw/master/templates/lbs2025_word_template_v0.1.doc>`__ or `LaTex <https://github.com/LBS2025/lbs2025/raw/master/templates/LBS-template.zip>`__ template, and submitted in PDF format through the `ConfTool website <https://www.conftool.org/lbs2025/>`__ **by 23.2.2025** :strike:`1.2.2025`. Please note that when submitting your contribution through the Conftool website, you should indicate the category (Full paper or Work in progress) you want to submit.
 
+Paper submissions are anonymized. Do not include any information that could reveal your identity. The title section of your manuscript should not contain any author names, email addresses, or affiliation status. In the body of your submission, eliminate all direct references to your own previous work, i.e., you must discuss your own previous work as if it had been written by somebody else. Please do not disproportionately cite your own previous work. Thank you!
+
 Showcases (pitch and demo)
 ***************************
 
