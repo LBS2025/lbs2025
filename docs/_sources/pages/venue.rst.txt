@@ -35,6 +35,11 @@ Conference dinner
 - **Place**: Hima & Sali, Kaapitehdas, Helsinki (Address: Tallberginkatu 1C, 00180 Helsinki)
 
 .. figure:: ../img/himasali.jpg
-   :figwidth: 40%
-   :align: left
+   :figwidth: 70%
+
+Icebreaker
+----------
+
+- **Time**: Wed 7th May starting at 18:00
+- **Place**: Learning Hub Greenhouse, Computer Science building, Aalto University (Address: Konemiehentie 2, 02150 Espoo)
 
