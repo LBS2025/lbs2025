@@ -8,12 +8,12 @@ Registration is open until **27th April 2025**.
 Conference Registration
 -----------------------
 
-Registration to the LBS 2025 conference as well as payment happens via Conftool platform:
+Registration to the LBS 2025 conference happens via Conftool platform:
 
 - If you have submitted a paper to the conference, please use the same login information as in the submission phase.
 - If you have not submitted a paper, please create an account to the Conftool which will allow you to register to the conference.
 
-.. admonition:: Book your ticket here
+.. admonition:: Register and book your ticket here
 
     `Register for LBS 2025 conference <http://conftool.org/lbs2025/>`__
 
