@@ -38,3 +38,9 @@ Conference dinner
    :figwidth: 40%
    :align: left
 
+Icebreaker
+----------
+
+- **Time**: Wed 7th May starting at 18:00
+- **Place**: Learning Hub Greenhouse, Computer Science building, Aalto University (Address: Konemiehentie 2, 02150 Espoo)
+
