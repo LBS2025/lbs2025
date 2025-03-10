@@ -8,12 +8,12 @@ Registration is open until **27th April 2025**.
 Conference Registration
 -----------------------
 
-Registration to the LBS 2025 conference as well as payment happens via Conftool platform:
+Registration to the LBS 2025 conference happens via Conftool platform:
 
 - If you have submitted a paper to the conference, please use the same login information as in the submission phase.
 - If you have not submitted a paper, please create an account to the Conftool which will allow you to register to the conference.
 
-.. admonition:: Book your ticket here
+.. admonition:: Register and book your ticket here
 
     `Register for LBS 2025 conference <http://conftool.org/lbs2025/>`__
 
@@ -43,8 +43,11 @@ The infringement of this rule will cause an accepted submission to be excluded f
 
 Invitation letters to the LBS 2025 conference can be requested after we have received your full conference registration fee payment.
 
-Payment
--------
+Payment instructions
+--------------------
 
-- Payments are possible by credit card.
-- After successful payment, our system will send a receipt to the e-mail address associated with your Conftool account.
+- When you register, choose the payment option “PAYMENT BY INVOICE LINK”.
+- An invoice will be created for you, and a personal link sent to your e-mail by the organisers.
+- The payment itself is made within the Paytrail payment service. Payments are possible by most common credit cards.
+- Once your payment comes through, the organisers will update your payment status in ConfTool. You will be able to print a receipt from ConfTool.
+
