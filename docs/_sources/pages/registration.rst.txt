@@ -1,10 +1,12 @@
 Registration
 ============
 
-Registration is open until **27th April 2025**. An early bird discount is applicable until April 6th, 2025.
+Registration is open until **27th April 2025**.
 
 Conference fees
 ---------------
+
+**An early bird discount is applicable until April 6th, 2025.**
 
 +---------+------------+---------+
 |         | Early bird | Regular |
