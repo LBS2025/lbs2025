@@ -20,8 +20,11 @@ Conference fees
 
 Registration fees include VAT.
 
-- Regular: Participants with
+- Regular: Price for all participants except students
 - Student: Includes all students (also PhD students) with or without accepted submission.
+
+The registration fee includes participation in all official conference events (including icebreaker, conference dinner and side-events).
+It does not include accommodation and travel expenses which you have to pay and organize on your own.
 
 Conference Registration
 -----------------------
