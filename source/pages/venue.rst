@@ -1,6 +1,9 @@
 Venue 
 ===========
 
+Main conference
+---------------
+
 .. figure:: ../img/dipoli.jpeg
 
 LBS 2025 will take place in **Dipoli** at Otaniemi, Espoo, Finland. Dipoli is the main building of Aalto University and a conference center. Dipoli was originally designed in 1966 by Raili and Reima Pietilä as the new university building for technology students.
@@ -11,7 +14,7 @@ The main conference will be organized in Lumituuli auditorium which is one of th
 
 
 Location
---------
+~~~~~~~~
 
 **Address**: Otakaari 24, Otaniemi, Espoo.
 
@@ -24,3 +27,14 @@ Location
     <hr>
 
     </div>
+
+Conference dinner
+-----------------
+
+- **Time**: Thu 8th May starting at 18:30
+- **Place**: Hima & Sali, Kaapitehdas, Helsinki (Address: Tallberginkatu 1C, 00180 Helsinki)
+
+.. figure:: ../img/himasali.jpg
+   :figwidth: 40%
+   :align: left
+
