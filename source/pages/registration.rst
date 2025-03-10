@@ -43,8 +43,11 @@ The infringement of this rule will cause an accepted submission to be excluded f
 
 Invitation letters to the LBS 2025 conference can be requested after we have received your full conference registration fee payment.
 
-Payment
--------
+Payment instructions
+--------------------
 
-- Payments are possible by credit card.
-- After successful payment, our system will send a receipt to the e-mail address associated with your Conftool account.
+- When you register, choose the payment option “PAYMENT BY INVOICE LINK”.
+- An invoice will be created for you, and a personal link sent to your e-mail by the organisers.
+- The payment itself is made within the Paytrail payment service. Payments are possible by most common credit cards.
+- Once your payment comes through, the organisers will update your payment status in ConfTool. You will be able to print a receipt from ConfTool.
+
