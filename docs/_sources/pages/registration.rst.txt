@@ -26,6 +26,11 @@ Registration fees include VAT.
 The registration fee includes participation in all official conference events (including icebreaker, conference dinner and side-events).
 It does not include accommodation and travel expenses which you have to pay and organize on your own.
 
+Please note: at least one author of each accepted oral/showcase presentation must register for the conference by 27th April 2025.
+The infringement of this rule will cause an accepted submission to be excluded from the LBS 2025 publication means.
+
+Invitation letters to the LBS 2025 conference can be requested after we have received your full conference registration fee payment.
+
 Conference Registration
 -----------------------
 
