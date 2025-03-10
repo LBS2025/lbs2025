@@ -1,6 +1,8 @@
 Registration
 ============
 
+**Please register to participate in the LBS 2025 Conference**.
+
 Registration is open until **27th April 2025**.
 
 Conference fees
