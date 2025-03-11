@@ -5,12 +5,12 @@ Welcome to LBS 2025
 
 Finnish Geospatial Research Institute (National Land Survey of Finland) and Aalto University are pleased to invite you to the 19th International Conference on Location Based Services (LBS 2025), which will take place in Otaniemi, Espoo, Finland on 7-9 May 2025. The conference is a joint effort of the ICA Commission on Location Based Services, the Commission on Digital Transformation of National Mapping Agencies, and the Commission on Cognitive Issues in Geographic Information Visualization.
 
-Call for papers
----------------
+Latest
+------
 
-:doc:`Call for Papers <pages/call_papers>` open now!
+- 11.3.2025 :doc:`Conference registration <pages/registration>` is now open!
+- 1.3.2025 :doc:`Call for Papers <pages/call_papers>` is now closed
 
-Notice! DL for full papers extended until 18th Nov, 2024.
 
 Keynote speakers
 ----------------
