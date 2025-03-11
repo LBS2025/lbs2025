@@ -75,6 +75,7 @@ The timeline that participants should consider is:
 
    pages/call_papers
    pages/keynote_speakers
+   pages/program
    pages/venue
    pages/contact
    pages/committee
@@ -82,7 +83,6 @@ The timeline that participants should consider is:
 
    .. pages/registration
    .. pages/travel_grant
-   .. pages/program
    .. pages/proceedings
    .. pages/dates
 
