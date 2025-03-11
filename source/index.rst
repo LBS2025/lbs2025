@@ -74,6 +74,7 @@ The timeline that participants should consider is:
    :hidden:
 
    pages/call_papers
+   pages/registration
    pages/keynote_speakers
    pages/program
    pages/venue
@@ -81,7 +82,6 @@ The timeline that participants should consider is:
    pages/committee
    pages/former_conference
 
-   .. pages/registration
    .. pages/travel_grant
    .. pages/proceedings
    .. pages/dates
