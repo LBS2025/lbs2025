@@ -3,7 +3,7 @@ Travel Grant
 
 We are happy to provide travel grants for young researchers to attend the LBS 2025 conference.
 To apply, please send an e-mail to **info@lbsconference.org**, having as subject “LBS 2025 travel grant” and
-include a PDF document including the following information:
+include necessary document(s) with the following information:
 
 - Applicant name, postal address, e-mail, CV, birth year, affiliated institution, publication list (where applicable);
 - Form of participation: in-person or virtual;
