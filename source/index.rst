@@ -79,6 +79,7 @@ The timeline that participants should consider is:
    pages/registration
    pages/keynote_speakers
    pages/program
+   pages/side_events
    pages/venue
    pages/travel_grant
    pages/contact
