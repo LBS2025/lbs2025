@@ -8,9 +8,9 @@ Finnish Geospatial Research Institute (National Land Survey of Finland) and Aalt
 Latest
 ------
 
+- 15.3.2025 :doc:`Travel grants <pages/registration>` available to young researchers
 - 11.3.2025 :doc:`Conference registration <pages/registration>` is now open!
 - 1.3.2025 :doc:`Call for Papers <pages/call_papers>` is now closed
-
 
 Keynote speakers
 ----------------
@@ -78,11 +78,11 @@ The timeline that participants should consider is:
    pages/keynote_speakers
    pages/program
    pages/venue
+   pages/travel_grant
    pages/contact
    pages/committee
    pages/former_conference
 
-   .. pages/travel_grant
    .. pages/proceedings
    .. pages/dates
 
