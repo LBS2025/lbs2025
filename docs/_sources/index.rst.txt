@@ -8,6 +8,7 @@ Finnish Geospatial Research Institute (National Land Survey of Finland) and Aalt
 Latest
 ------
 
+- 15.3.2025 :doc:`Two side events <pages/side_events>` organized in conjunction with the LBS 2025 conference
 - 15.3.2025 :doc:`Travel grants <pages/registration>` available to young researchers
 - 11.3.2025 :doc:`Conference registration <pages/registration>` is now open!
 - 1.3.2025 :doc:`Call for Papers <pages/call_papers>` is now closed
