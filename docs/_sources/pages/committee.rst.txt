@@ -1,12 +1,20 @@
 Committee 
 ============
 
-Chairs
-------
+Conference Chairs
+-----------------
 
 - Juha Oksanen, FGI
 - Henrikki Tenkanen, Aalto University
 - Pyry Kettunen, FGI
+
+PC Chairs
+---------
+
+- Juha Oksanen, FGI
+- Henrikki Tenkanen, Aalto University
+- Pyry Kettunen, FGI
+- Ville Mäkinen, FGI
 
 Program committee
 -----------------
