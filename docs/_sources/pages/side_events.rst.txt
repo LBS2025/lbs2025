@@ -33,4 +33,14 @@ Participation of this workshop is free, but space is limited. To express your in
 Geospatial Challenge Camp 2025 Finals
 -------------------------------------
 
-To be added.
+On **Tuesday May 6th**, there will be the final event of `Geospatial Challenge Camp 2025 <https://challenge-camp.geoportti.fi>`__.
+This event is organized at Aalto University and is open to everyone free of charge. During the final event of the Geospatial Challenge Camp the teams will pitch their solutions for tackling issues in the **Health and Wellbeing** sector.
+
+The Geospatial Challenge Camp is a skills development and innovation service of `Geoportti Research Infrastructure <https://www.geoportti.fi/>`__
+and `Location Innovation Hub (LIH) <https://www.maanmittauslaitos.fi/en/locationinnovationhub>`__ which is one of the
+European Digital Innovation Hubs. The Geospatial Challenge Camp is a 12-week long challenge-based course (5 ECTS)
+that aims to provide participants a chance to tackle relevant real-world challenges in cross-disciplinary teams.
+The participants are doctoral and post-doctoral researchers plus master students from Finnish universities and research organizations.
+They will work together in multidisciplinary teams and collaborate with mentors and stakeholders.
+
+The registration to the Geospatial Challenge Camp Final event will be opened in April. The link for registration will be opened here.
