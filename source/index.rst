@@ -69,7 +69,7 @@ The timeline that participants should consider is:
 - **18.11.2024** :strike:`1.11.2024` Deadline for full papers
 - **23.2.2025** :strike:`1.2.2025` Deadline for work in progress/abstracts
 - **23.2.2025** :strike:`15.2.2024` Deadline for showcases
-- **Registration:** Early bird 6.4.2025, Regular 7.4.2025 - 27.4.2025.
+- **Registration:** Early bird -6.4.2025, Regular 7.-27.4.2025.
 - **7.-9.5.2025** LBS 2025 Conference, Otaniemi, Espoo
 
 .. toctree::
