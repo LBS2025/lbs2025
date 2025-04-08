@@ -65,7 +65,7 @@ Important Dates
 The timeline that participants should consider is:
 
 - **27.4.2025** Final date to register for the conference
-- **6.4.2025** Deadline for early bird registration
+- :strike:`6.4.2025 Deadline for early bird registration`
 - **18.11.2024** :strike:`1.11.2024` Deadline for full papers
 - **23.2.2025** :strike:`1.2.2025` Deadline for work in progress/abstracts
 - **23.2.2025** :strike:`15.2.2024` Deadline for showcases
