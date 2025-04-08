@@ -72,6 +72,11 @@ The timeline that participants should consider is:
 - **Registration:** Early bird -6.4.2025, Regular 7.-27.4.2025.
 - **7.-9.5.2025** LBS 2025 Conference, Otaniemi, Espoo
 
+Sponsors
+--------
+
+.. figure:: img/LBS_sponsors.png
+
 .. toctree::
    :maxdepth: 1
    :hidden:
