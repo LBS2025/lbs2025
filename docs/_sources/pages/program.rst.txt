@@ -6,7 +6,7 @@ Main conference
 
 Below you can find the preliminary program for the main conference.
 
-.. pdf-include:: _static/LBS-program-draft.pdf
+.. pdf-include:: ../_static/LBS-program-draft.pdf
 
 Side events
 -----------
