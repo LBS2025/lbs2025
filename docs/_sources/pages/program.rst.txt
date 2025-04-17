@@ -7,7 +7,7 @@ Main conference
 Below you can find the preliminary program for the main conference.
 
 .. pdf-include:: ../_static/LBS-program-draft.pdf
-   :width: 100%
+   :width: 900px
    :height: 1200px
 
 Side events
