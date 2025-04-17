@@ -6,10 +6,7 @@ Main conference
 
 Below you can find the preliminary program for the main conference.
 
-.. raw:: html
-
-    <iframe src="https://drive.google.com/file/d/1pHWxzashOej35QVY1uRV9Fiktc7Wtl6u/preview" frameborder="0" width="960" height="1650" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+.. pdf-include:: _static/LBS-program-draft.pdf
 
 Side events
 -----------

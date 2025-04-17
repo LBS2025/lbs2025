@@ -20,3 +20,4 @@ dependencies:
   - pip
   - pip:
       - sphinx_design==0.4.1
+      - sphinx-simplepdf
