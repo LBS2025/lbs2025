@@ -35,7 +35,7 @@ Conference dinner
 - **Place**: Hima & Sali, Kaapitehdas, Helsinki (Address: Tallberginkatu 1C, 00180 Helsinki)
 
 .. figure:: ../img/himasali.jpg
-   :figwidth: 70%
+   :figwidth: 100%
 
 .. raw:: html
 
