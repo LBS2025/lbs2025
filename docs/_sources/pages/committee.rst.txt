@@ -86,9 +86,7 @@ Local organizing committee
 - Inkeri Lantta
 - Jussi Nikander
 - Ville Mäkinen
-- Bryan Vallejo
 - Anja Antila
 - Subrasankha Dey
 - Newsha Modjrian
 - Cesar Marin
-- Panu Muhli
