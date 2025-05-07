@@ -4,7 +4,7 @@ Program
 Main conference
 ---------------
 
-Below you can find the preliminary program for the main conference.
+Below you can find the program for the main conference.
 
 .. pdf-include:: ../_static/LBS-program-final.pdf
    :width: 900px
