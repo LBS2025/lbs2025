@@ -16,7 +16,7 @@ Day 1
 
       .gallery-container a {
         display: block;
-        width: calc(33.333% - 10px);  /* 3 per row */
+        width: calc(25% - 10px);  /* 4 per row */
         text-decoration: none;
       }
 
