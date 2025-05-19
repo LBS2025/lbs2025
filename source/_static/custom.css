@@ -50,8 +50,3 @@ html {
     max-width: 100%;
   }
 }
-
-.gallery-container a {
-  display: block;
-  width: calc(33.333% - 10px);  /* Same as .thumbnail-box */
-}
