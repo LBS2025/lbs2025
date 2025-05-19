@@ -11,7 +11,7 @@ Day 1
        display: flex;
        flex-wrap: wrap;
        gap: 15px;
-       justify-content: center;
+       justify-content: flex-start;
      }
 
      .thumbnail-box {
