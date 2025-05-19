@@ -8,7 +8,7 @@ Finnish Geospatial Research Institute (National Land Survey of Finland) and Aalt
 Latest
 ------
 
-.. figure:: photos/group_photo.jpeg
+.. figure:: _static/photos/group_photo.jpeg
    :figwidth: 100%
 
 - 7.5.2025 Successful start of the 19th International Conference on Location Based Services!
