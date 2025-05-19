@@ -29,5 +29,5 @@ The International Cartographic Association's Scholarship recipients at LBS2025 a
 
 Congratulations for the travel grant recipients!
 
-.. figure:: ../_static/photos/Day3/20250509_121858.jpeg
+.. figure:: ../_static/photos/Day3/20250509_121733.jpeg
    :figwidth: 80%
