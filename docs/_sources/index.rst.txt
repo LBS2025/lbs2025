@@ -90,6 +90,7 @@ Sponsors and Support
    pages/keynote_speakers
    pages/program
    pages/side_events
+   pages/gallery
    pages/venue
    pages/travel_grant
    pages/contact
