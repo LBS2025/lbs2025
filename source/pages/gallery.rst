@@ -12,7 +12,6 @@ Photo Gallery
    <a href="_static/photos/Day_1/20250507_085400.JPG" data-lightbox="gallery">
      <img src="../_static/photos/Day_1/20250507_085400.JPG" width="200">
    </a>
-   ...
    <a href="_static/photos/Day_1/20250507_085747.JPG" data-lightbox="gallery">
      <img src="../_static/photos/Day_1/20250507_085747.JPG" width="200">
    </a>
