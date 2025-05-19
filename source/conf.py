@@ -45,10 +45,9 @@ exclude_patterns = []
 html_theme = "sphinx_book_theme"
 html_logo = "_static/logo-tab.png"
 html_title = "LBS 2025"
-html_css_files = ["custom.css"]
-
 html_static_path = ['_static']
-
+html_css_files = ["custom.css", "lightbox2/css/lightbox.css"]
+html_js_files = ["lightbox2/js/lightbox.js"]
 html_context = {
    "default_mode": "light"
 }
