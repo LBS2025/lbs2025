@@ -8,20 +8,16 @@ The best full paper award at LBS2025 went to **Joseph Shingleton & Ana Basiri** 
 
 .. figure:: ../_static/photos/Day1/20250507_110127.jpeg
    :figwidth: 50%
-
-.. figure:: ../_static/photos/Day3/20250509_121950.jpeg
-   :figwidth: 50%
+   :align: right
 
 Best Short paper award
 ----------------------
 
 The best short paper award at LBS2025 went to **Martin Haamer¹, Mirosława Łukawska², Jacek Pawlak³, Age Poom¹, Anto Aasa¹ & Aruna Sivakumar³** from University of Tartu¹ (Estonia), Technische Universität Dresden² (Germany) and Imperial College London³ (UK) for their work in progress paper on “Comparative Modelling of Cycling Route Choice by Bikes and E-Bikes: The Case Study of Tartu, Estonia”. Congratulations for the winners!
 
-.. figure:: ../_static/photos/Day2/20250508_163146.jpeg
+.. figure:: ../_static/photos/Day2/20250508_162308.jpeg
    :figwidth: 50%
-
-.. figure:: ../_static/photos/Day3/20250509_121858.jpeg
-   :figwidth: 50%
+   :align: right
 
 ICA Scholarship recipients
 ---------------------------
@@ -33,5 +29,5 @@ The International Cartographic Association's Scholarship recipients at LBS2025 a
 
 Congratulations for the travel grant recipients!
 
-.. figure:: ../_static/photos/Day3/20250509_121858.jpeg
-   :figwidth: 50%
+.. figure:: ../_static/photos/Day3/20250509_121733.jpeg
+   :figwidth: 80%
