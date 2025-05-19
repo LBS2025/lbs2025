@@ -1,7 +1,7 @@
 Photo Gallery
 =============
 
-Below you can find the photo gallery from the LBS2025 conference in Espoo, Finland. You can click the photos to open them in full screen.
+Below you can find the photo gallery from the LBS2025 conference in Espoo, Finland. You can click the photos to open them in full screen gallery mode.
 All the photos are published with the permission of the participants.
 
 Day 1: 7th May 2025
@@ -19,7 +19,7 @@ Day 1: 7th May 2025
 
       .gallery-container a {
         display: block;
-        width: 25%;  /* 4 per row */
+        width: calc(25% - 5px);  /* 4 per row - apply the same gap as in above */
         text-decoration: none;
       }
 
