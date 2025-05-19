@@ -11,9 +11,10 @@ Latest
 .. figure:: _static/photos/group_photo.jpeg
    :figwidth: 100%
 
-- 19.5.2025 Photo gallery published, showing the highlights of the conference! See :doc:`Photo Gallery <pages/gallery>`.
-- 9.5.2025 LBS2025 conference is now wrapped! Thank you to all the participants who made the event a success!
-- 7.5.2025 Successful start of the 19th International Conference on Location Based Services!
+- 19.5.2025 Photo gallery published! See the highlights of the conference from :doc:`Photo Gallery <pages/gallery>`.
+- 09.5.2025 LBS2025 conference is now wrapped! Thank you to all the participants who made the event a success!
+- 09.5.2025 Best full paper, best short paper and ICA Scholarship selected! See the recipients under :doc:`Best paper awards <pages/awards>`.
+- 07.5.2025 Successful start of the 19th International Conference on Location Based Services!
 - 15.3.2025 :doc:`Two side events <pages/side_events>` organized in conjunction with the LBS 2025 conference
 - 15.3.2025 :doc:`Travel grants <pages/registration>` available to young researchers
 - 11.3.2025 :doc:`Conference registration <pages/registration>` is now open!
@@ -92,6 +93,7 @@ Sponsors and Support
    pages/keynote_speakers
    pages/program
    pages/side_events
+   pages/awards
    pages/gallery
    pages/venue
    pages/travel_grant
@@ -100,6 +102,5 @@ Sponsors and Support
    pages/former_conference
 
    .. pages/proceedings
-   .. pages/dates
 
 
