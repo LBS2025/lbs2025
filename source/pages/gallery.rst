@@ -1003,11 +1003,6 @@ Day 2: 8th May 2025
             <img src="../_static/photos/Day2/20250508_144228_thumb.jpeg">
           </div>
         </a>
-    <a href="../_static/photos/Day2/20250508_144657.jpeg" data-lightbox="gallery_day2">
-          <div class="thumbnail-box">
-            <img src="../_static/photos/Day2/20250508_144657_thumb.jpeg">
-          </div>
-        </a>
     <a href="../_static/photos/Day2/20250508_145232.jpeg" data-lightbox="gallery_day2">
           <div class="thumbnail-box">
             <img src="../_static/photos/Day2/20250508_145232_thumb.jpeg">
