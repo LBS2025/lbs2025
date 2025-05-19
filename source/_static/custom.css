@@ -50,17 +50,3 @@ html {
     max-width: 100%;
   }
 }
-
-.thumbnail-box {
-  width: 30%;
-  aspect-ratio: 1/1;  /* forces square box */
-  overflow: hidden;
-  position: relative;
-}
-
-.thumbnail-box img {
-  width: 30%;
-  height: 30%;
-  object-fit: cover;  /* fills the box without distortion */
-  object-position: center;
-}
