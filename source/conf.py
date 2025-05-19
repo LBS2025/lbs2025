@@ -26,8 +26,6 @@ extensions = [
     'IPython.sphinxext.ipython_directive',
     'sphinx_design',
     'sphinx_simplepdf',
-    'sphinx_panels',
-    'sphinxcontrib.images',
     # "sphinx_carousel.carousel",
     # 'myst_nb',
     # 'jupyter_sphinx',
@@ -102,12 +100,6 @@ html_sidebars = {
         #"archives.html",
         "sbt-sidebar-nav.html",
     ]
-}
-
-images_config = {
-    'default_image_width': '100%',  # Image fits panel
-    'download': False,
-    'override_image_directive': True,
 }
 
 def strikethrough_role(name, rawtext, text, lineno, inliner, options={}, content=[]):
