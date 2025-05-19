@@ -21,3 +21,5 @@ dependencies:
   - pip:
       - sphinx_design==0.4.1
       - sphinx-simplepdf
+      - sphinx-panels
+      - sphinxcontrib-images
