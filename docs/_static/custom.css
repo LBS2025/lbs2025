@@ -38,7 +38,7 @@ html {
 /* Increase main content width and shift TOC to the left */
 @media (min-width: 960px) {
   .bd-sidebar-primary {
-    flex: 0 0 200px; /* default is ~240px, reduce if needed */
+    flex: 0 0 175px; /* default is ~240px, reduce if needed */
   }
 
   .bd-main {
