@@ -6,7 +6,42 @@ Day 1
 
 .. raw:: html
 
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <style>
+     .gallery-container {
+       display: flex;
+       flex-wrap: wrap;
+       gap: 15px;
+       justify-content: center;
+     }
+
+     .thumbnail-box {
+       width: calc(33.333% - 10px);  /* 3 per row, minus gap */
+       aspect-ratio: 1/1;
+       overflow: hidden;
+       position: relative;
+     }
+
+     .thumbnail-box img {
+       width: 100%;
+       height: 100%;
+       object-fit: cover;
+       object-position: center;
+     }
+
+     @media (max-width: 768px) {
+       .thumbnail-box {
+         width: calc(50% - 10px);  /* 2 per row on tablets */
+       }
+     }
+
+     @media (max-width: 500px) {
+       .thumbnail-box {
+         width: 100%;  /* 1 per row on phones */
+       }
+     }
+    </style>
+
+    <div class="gallery-container">
 
     <a href="../_static/photos/Day1/20250507_085335.jpeg" data-lightbox="gallery_day1">
           <div class="thumbnail-box">
