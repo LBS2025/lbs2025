@@ -11,6 +11,7 @@ Latest
 .. figure:: _static/photos/group_photo.jpeg
    :figwidth: 100%
 
+- 04.07.2025 Proceedings of the LBS 2025 is published! Find the proceedings from :doc:`pages/proceedings`.
 - 19.5.2025 Photo gallery published! See the highlights of the conference from :doc:`Photo Gallery <pages/gallery>`.
 - 09.5.2025 LBS2025 conference is now wrapped! Thank you to all the participants who made the event a success!
 - 09.5.2025 Best full paper, best short paper and ICA Scholarship selected! See the recipients under :doc:`Best paper awards <pages/awards>`.
@@ -91,6 +92,7 @@ Sponsors and Support
    pages/call_papers
    pages/registration
    pages/keynote_speakers
+   pages/proceedings
    pages/program
    pages/side_events
    pages/awards
@@ -100,7 +102,5 @@ Sponsors and Support
    pages/contact
    pages/committee
    pages/former_conference
-
-   .. pages/proceedings
 
 
